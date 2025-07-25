@@ -120,8 +120,6 @@ Hands-on full-stack portfolio with front-end, back-end, and responsive design
 
 ## 🤝 Let’s Connect
 
-## 🤝 Let’s Connect
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadsohail1501@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fahadsohail1501.wixsite.com/my-site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-sohail-33496b249/)
