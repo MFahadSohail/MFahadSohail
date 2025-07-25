@@ -35,11 +35,6 @@
 - Supported projects and campaign strategies for fundraising using software tools  
 - Gained experience in real-world, non-profit applications of software engineering
 
-### 👨‍💻 Tech Lead – Computing Student Hub, YorkU  
-*Apr 2022 – Aug 2024*  
-- Led a 16-member team in organizing workshops on **Machine Learning**, **React.js**, **Figma**, and more  
-- Built a community through events, Leetcode sessions, Discord bots, and industry engagement
-
 ### 👨‍🏫 Coding Mentor – York University  
 *Jan 2023 – Apr 2023*  
 - Hosted coding sessions and debug clinics for fellow students  
