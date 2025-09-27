@@ -26,14 +26,15 @@
 
 ### 🧪 Software Automation Developer – Ministry of Children, I&IT Cluster  
 *Jan 2024 – Apr 2025*  
-- Developed automated test scripts using **Selenium (Java)** and **Python** frameworks  
-- Integrated tests with **CI/CD pipelines** using Azure DevOps  
-- Automated workflows using **AutoIt**, **VBScript**, and internal systems
+- Developed automated test scripts using **Selenium (Java)** and **Python** frameworks, improving efficiency and reducing manual testing time by **40%**  
+- Integrated automated tests into **CI/CD pipelines** with **Azure DevOps**, boosting deployment efficiency  
+- Automated workflows using **Selenium**, **AutoIt**, **Python**, and **VBScript**, improving test coverage by **35%** and collaborating with developers and QA to enhance internal system reliability  
 
 ### 🌍 Software Developer Intern – Support Black Charities  
-*Oct 2023 – Jan 2024*  
-- Supported projects and campaign strategies for fundraising using software tools  
-- Gained experience in real-world, non-profit applications of software engineering
+*Sep 2023 – Dec 2023*  
+- Enhanced fundraising campaigns by **25%** through front-end development, project organization, and content optimization using **HTML**, **CSS**, **JavaScript**, and modern collaborative tools  
+- Applied software engineering skills to improve non-profit workflow efficiency by **20%**
+
 
 ### 👨‍🏫 Coding Mentor – York University  
 *Jan 2023 – Apr 2023*  
