@@ -100,6 +100,18 @@ Software Design · Test Automation · Digital Logic Design · Regression & Usabi
 
 ## 🚀 Featured Projects
 
+### 🏭 [Warehouse Management System](https://github.com/MFahadSohail/Warehouse_Management_System)  
+Java · MySQL · Git  
+A comprehensive system to manage inventory, orders, and warehouse operations efficiently
+
+### 🔢 [Numeric Quest: De-Lite Edition](https://github.com/MFahadSohail/Numeric-Quest-De-Lite-Edition)  
+Python · Tkinter · Pygame  
+An interactive educational game focused on enhancing numeric and problem-solving skills
+
+### 📊 [EECS4404 Project](https://github.com/MFahadSohail/EECS4404_Project)  
+Python · Machine Learning · Pandas  
+A data-driven project applying machine learning techniques for predictive analytics
+
 ### 📅 [Plan-Perfect (Calendar App)](https://github.com/nikhilnambiarc/EECS2311Project-Calendar)  
 Java · MySQL · Git  
 A user-centric modern calendar app with advanced features and intuitive design
