@@ -108,7 +108,7 @@ A comprehensive system to manage inventory, orders, and warehouse operations eff
 Python · Tkinter · Pygame  
 An interactive educational game focused on enhancing numeric and problem-solving skills
 
-### 📊 [EECS4404 Project](https://github.com/MFahadSohail/EECS4404_Project)  
+### 📊 [Braille Vision: ML-Based Image-to-Audio Translator](https://github.com/MFahadSohail/EECS4404_Project)  
 Python · Machine Learning · Pandas  
 A data-driven project applying machine learning techniques for predictive analytics
 
