@@ -16,7 +16,7 @@
 ## 🎓 Education
 
 **York University, Lassonde School of Engineering**  
-📅 Sep 2021 – Apr 2026  
+📅 Sep 2021 – Dec 2026  
 🎓 Spec. Hons. BEng, Software Engineering (Big Data Stream)  
 📚 *Coursework*: OOP, Software Design, Database Systems, Machine Learning, Data Mining, Embedded Systems
 
