@@ -100,6 +100,10 @@ Software Design · Test Automation · Digital Logic Design · Regression & Usabi
 
 ## 🚀 Featured Projects
 
+### 🔨 [Auction E-commerce System](https://github.com/svastiks/auction-ecom-system-eecs-4413)  
+Java · MySQL · PostgreSQL · Git · Docker · Python · FastAPI · React · TypeScript · Tailwind CSS  
+A full-stack auction-based e-commerce platform that supports real-time bidding, secure transactions, user management, and scalable system architecture.
+
 ### 🏭 [Warehouse Management System](https://github.com/MFahadSohail/Warehouse_Management_System)  
 Java · MySQL · Git  
 A comprehensive system to manage inventory, orders, and warehouse operations efficiently
