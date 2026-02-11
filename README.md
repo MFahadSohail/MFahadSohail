@@ -24,7 +24,14 @@
 
 ## 💼 Experience
 
-### 🧪 Software Automation Developer – Ministry of Children, I&IT Cluster  
+### 💻 Software Developer – Ministry of Public & Business Services & Procurement (Ontario)  
+*Jan 2026 – Apr 2026*  
+- Contributed to the design, development, and enhancement of enterprise applications using **C#**, **.NET**, **ASP.NET Core**, and **Blazor** for Ministry of Finance systems  
+- Developed and supported low-code business workflows using **OutSystems**, improving internal service delivery efficiency  
+- Created and maintained **Power BI** reports and dashboards to enable data-driven decision-making, while collaborating with cross-functional teams to deliver secure, standards-compliant solutions  
+ 
+
+### 🤖 Software Automation Developer – Ministry of Children, I&IT Cluster  
 *Jan 2024 – Apr 2025*  
 - Developed automated test scripts using **Selenium (Java)** and **Python** frameworks, improving efficiency and reducing manual testing time by **40%**  
 - Integrated automated tests into **CI/CD pipelines** with **Azure DevOps**, boosting deployment efficiency  
