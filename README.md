@@ -25,7 +25,7 @@
 ## 💼 Experience
 
 ### 💻 Software Developer – Ministry of Public & Business Services & Procurement (Ontario)  
-*Jan 2026 – Present*  
+*Jan 2026 – Apr 2026*  
 - Contributed to the design, development, and enhancement of enterprise applications using **C#**, **.NET**, **ASP.NET Core**, and **Blazor** for Ministry of Finance systems  
 - Developed and supported low-code business workflows using **OutSystems**, improving internal service delivery efficiency  
 - Created and maintained **Power BI** reports and dashboards to enable data-driven decision-making, while collaborating with cross-functional teams to deliver secure, standards-compliant solutions  
